@@ -1,16 +1,30 @@
-# clot_app
+<div align="center">
 
-A new Flutter project.
+# 👕 Clot — Modern Fashion E-Commerce Mobile App
 
-## Getting Started
+[![Flutter](https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20%2B%20BLoC-10B981?style=for-the-badge)]()
 
-This project is a starting point for a Flutter application.
+**A sleek, conversion-optimized fashion e-commerce mobile application featuring product discovery, size/color variants, cart management, and checkout workflows.**
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Key Features
+
+- 🛍️ **Curated Product Catalog:** Category filtering, search with debounce, and rich product detail galleries.
+- 🛒 **Cart & Checkout Pipeline:** Variant selection (size, color), promo codes, address management, and order tracking.
+- 🎨 **Modern Design System:** Custom typography, dark/light theme support, and micro-animations.
+
+## 🚀 Getting Started
+
+`ash
+git clone https://github.com/flutterdevinmobile/clot_app.git
+cd clot_app
+flutter pub get
+flutter run
+`
+
+---
+<p align="center">Engineered by <a href="https://github.com/flutterdevinmobile">Abduqahhor Abduganiyev</a> @ <a href="https://github.com/dewibeuz">DEWIBE</a></p>
